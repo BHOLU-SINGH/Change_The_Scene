@@ -1,3 +1,9 @@
+/* 
+Author Name	: Bholu Singh
+Website		: Free Projects1 
+File Name 	: style.css
+*/
+
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap');
 
 *{
@@ -27,11 +33,4 @@ section:before{
 }
 section:active:before{
 	width: 0;
-}
-.man{
-	position: absolute;
-	bottom: 0;
-	left: 50%;
-	transform: translateX(-50%);
-	z-index: 100000;
 }
